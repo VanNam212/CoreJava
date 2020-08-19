@@ -1,7 +1,7 @@
 /**
  * 
  */
-package AdapterPattern;
+package ChainOfResposibilityPattern;
 
 import java.util.Scanner;
 

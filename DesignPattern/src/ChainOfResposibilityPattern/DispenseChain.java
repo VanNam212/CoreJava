@@ -1,7 +1,7 @@
 /**
  * 
  */
-package AdapterPattern;
+package ChainOfResposibilityPattern;
 
 /**
  * @author VanNam212
