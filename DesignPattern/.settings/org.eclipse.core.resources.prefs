@@ -1,4 +1,11 @@
 eclipse.preferences.version=1
 encoding//src/AdapterPattern/package-info.java=UTF-8
 encoding//src/ChainOfResposibilityPattern/package-info.java=UTF-8
+encoding//src/DemoAdapterPattern/JapaneseAdapter.java=UTF-8
+encoding//src/DemoAdapterPattern/TestAdapter.java=UTF-8
+encoding//src/DemoAdapterPattern/TranslatorAdapter.java=UTF-8
+encoding//src/FactoryMethodPattern/BaiLuan.java=UTF-8
+encoding//src/FactoryMethodPattern/Code.java=UTF-8
+encoding//src/FactoryMethodPattern/ReportFactory.java=UTF-8
+encoding//src/FactoryMethodPattern/TracNghiem.java=UTF-8
 encoding//src/info.java=UTF-8

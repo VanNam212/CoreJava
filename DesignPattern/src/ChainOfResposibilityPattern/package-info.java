@@ -1,5 +1,5 @@
 /**
- * Khắc phục việc ghép cặp giữa bộ gởi và bộ nhận thông điệp
+ * Khắc phục việc ghép cặp giữa bộ gửi và bộ nhận thông điệp
  * 
  * Các đối tượng nhận thông điệp được kết nối thành một chuỗi và thông điệp được chuyển dọc theo 
  * chuỗi nầy đến khi gặp được đối tượng xử lý nó
